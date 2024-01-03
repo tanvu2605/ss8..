@@ -1,0 +1,28 @@
+.hinh-vuong{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border-radius: 0px;}
+    
+    .hinh-bo-goc{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border-radius: 35px;}
+    
+    .hinh-tron{
+    width: 100px;
+    height: 100px;
+    background-color: orangered;
+    border-radius: 50px;
+    }
+    .hinh-vuong:hover{
+           transform: translate(10px);
+    } 
+    .hinh-bo-goc:hover{ 
+          transform: translate(20px);
+    }
+     .hinh-tron:hover{  
+         transform: translate(30px);
+    
+     }
